@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+*/.ipynb_checkpoints/*
+*/.sw?
+*/.coverage
