@@ -1,6 +1,8 @@
 # RLab Common
 Common methods and tools for data scrubbing, vectorized forecasting and ETL work. I can no longer privately maintain these pieces of work, so now it is public. 
 
+I do not have the head space to keep this working.
+
 ## How to Unit Test
 ```
 sudo apt install $(cat work/apt-packages.txt)
